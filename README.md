@@ -19,3 +19,4 @@ Below is a list of the entities that the Tarpaulin API suppports:
 - Development within Docker Environment
 - IP Addressed based Rate Limiting
 - CSV Implementation from GET request 
+- User Authentication and Authorization using Json Web Tokens (JWT)
